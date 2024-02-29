@@ -1,4 +1,4 @@
-This is the backend for the GrappleCosmos React Native app. You can view the frontend [here](https://github.com/timothygorer/grapplecomos-frontend).
+This is the backend for the GrappleCosmos React Native app. You can view the frontend [here](https://github.com/timothygorer/react-native-grapplecomos-frontend).
 
 ```Installation instructions```
 
